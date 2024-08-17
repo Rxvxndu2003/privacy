@@ -1,4 +1,66 @@
 {
     "title": "Privacy Policy",
-    "content": "Your privacy is important to us. This privacy statement explains the personal data our company processes, how our company processes it, and for what purposes."
+    "lastUpdated": "2024-08-17",
+    "introduction": "Your privacy is important to us. This privacy statement explains the personal data our company collects, how we process it, and for what purposes.",
+    "dataCollection": {
+        "personalInformation": [
+            "Name",
+            "Email address",
+            "Phone number",
+            "Address",
+            "Payment information"
+        ],
+        "usageData": [
+            "IP address",
+            "Browser type",
+            "Operating system",
+            "Referring website",
+            "Pages visited",
+            "Time spent on pages"
+        ]
+    },
+    "dataUsage": [
+        {
+            "purpose": "To provide and maintain our service",
+            "details": "We use your information to deliver the services you have requested, including processing transactions and sending updates."
+        },
+        {
+            "purpose": "To improve our service",
+            "details": "We may use feedback you provide to improve our products and services."
+        },
+        {
+            "purpose": "To communicate with you",
+            "details": "We may use your information to contact you regarding your account, orders, and other requests, as well as to send promotional materials."
+        },
+        {
+            "purpose": "To comply with legal obligations",
+            "details": "We may disclose your information to comply with legal obligations, such as responding to subpoenas or legal processes."
+        }
+    ],
+    "dataSharing": {
+        "thirdParties": [
+            "Payment processors",
+            "Shipping providers",
+            "Analytics providers",
+            "Advertising partners"
+        ],
+        "purpose": "We share your data with trusted third parties who assist us in operating our website, conducting our business, or providing services to you, as long as those parties agree to keep this information confidential."
+    },
+    "dataSecurity": {
+        "description": "We use appropriate technical and organizational measures to secure your personal data and protect it against unauthorized or unlawful processing, accidental loss, destruction, or damage."
+    },
+    "yourRights": [
+        "Access your data",
+        "Request correction of your data",
+        "Request deletion of your data",
+        "Object to processing of your data",
+        "Request data portability",
+        "Withdraw consent"
+    ],
+    "contactInformation": {
+        "companyName": "Your Company Name",
+        "address": "1234 Street Name, City, State, ZIP Code",
+        "email": "contact@yourcompany.com",
+        "phone": "+1234567890"
+    }
 }
